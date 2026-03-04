@@ -1,0 +1,15 @@
+FROM debian:bookworm-slim AS pcs_2025
+
+RUN apt update
+
+RUN apt install -y apt-utils
+RUN apt install -y build-essential gdb
+RUN apt install -y cmake cmake-curses-gui
+RUN apt install -y git vim
+RUN apt install -y libeigen3-dev
+RUN apt install -y googletest libgtest-dev libgmock-dev
+
+RUN useradd --create-home appuser
+USER appuser
+
+WORKDIR /home/appuser/

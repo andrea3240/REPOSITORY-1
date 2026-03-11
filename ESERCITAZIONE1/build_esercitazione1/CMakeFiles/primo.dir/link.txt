@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Wl,--dependency-file=CMakeFiles/primo.dir/link.d CMakeFiles/primo.dir/primo.cpp.o -o primo

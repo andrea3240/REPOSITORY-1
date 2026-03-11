@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE1/build_esercitazione1/CMakeFiles/media.dir
+/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE1/build_esercitazione1/CMakeFiles/primo.dir
+/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE1/build_esercitazione1/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE1/build_esercitazione1/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,924 @@
+Start testing: May 06 08:10 UTC
+----------------------------------------------------------
+1/5 Testing: bubblesort
+1/5 Test: bubblesort
+Command: "/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build/test_bubblesort"
+Directory: /home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build
+"bubblesort" start time: May 06 08:10 UTC
+Output:
+----------------------------------------------------------
+Vettore 1 Dimensione: 4874
+ il vettore numerico e' correttamente ordinato
+Vettore 2 Dimensione: 822
+ il vettore numerico e' correttamente ordinato
+Vettore 3 Dimensione: 1664
+ il vettore numerico e' correttamente ordinato
+Vettore 4 Dimensione: 517
+ il vettore numerico e' correttamente ordinato
+Vettore 5 Dimensione: 7502
+ il vettore numerico e' correttamente ordinato
+Vettore 6 Dimensione: 4417
+ il vettore numerico e' correttamente ordinato
+Vettore 7 Dimensione: 80
+ il vettore numerico e' correttamente ordinato
+Vettore 8 Dimensione: 6580
+ il vettore numerico e' correttamente ordinato
+Vettore 9 Dimensione: 3651
+ il vettore numerico e' correttamente ordinato
+Vettore 10 Dimensione: 7696
+ il vettore numerico e' correttamente ordinato
+Vettore 11 Dimensione: 3442
+ il vettore numerico e' correttamente ordinato
+Vettore 12 Dimensione: 5581
+ il vettore numerico e' correttamente ordinato
+Vettore 13 Dimensione: 3241
+ il vettore numerico e' correttamente ordinato
+Vettore 14 Dimensione: 5079
+ il vettore numerico e' correttamente ordinato
+Vettore 15 Dimensione: 7962
+ il vettore numerico e' correttamente ordinato
+Vettore 16 Dimensione: 5594
+ il vettore numerico e' correttamente ordinato
+Vettore 17 Dimensione: 2410
+ il vettore numerico e' correttamente ordinato
+Vettore 18 Dimensione: 973
+ il vettore numerico e' correttamente ordinato
+Vettore 19 Dimensione: 7554
+ il vettore numerico e' correttamente ordinato
+Vettore 20 Dimensione: 6831
+ il vettore numerico e' correttamente ordinato
+Vettore 21 Dimensione: 4601
+ il vettore numerico e' correttamente ordinato
+Vettore 22 Dimensione: 3663
+ il vettore numerico e' correttamente ordinato
+Vettore 23 Dimensione: 84
+ il vettore numerico e' correttamente ordinato
+Vettore 24 Dimensione: 7753
+ il vettore numerico e' correttamente ordinato
+Vettore 25 Dimensione: 1869
+ il vettore numerico e' correttamente ordinato
+Vettore 26 Dimensione: 5749
+ il vettore numerico e' correttamente ordinato
+Vettore 27 Dimensione: 3002
+ il vettore numerico e' correttamente ordinato
+Vettore 28 Dimensione: 7749
+ il vettore numerico e' correttamente ordinato
+Vettore 29 Dimensione: 7277
+ il vettore numerico e' correttamente ordinato
+Vettore 30 Dimensione: 4488
+ il vettore numerico e' correttamente ordinato
+Vettore 31 Dimensione: 7458
+ il vettore numerico e' correttamente ordinato
+Vettore 32 Dimensione: 3922
+ il vettore numerico e' correttamente ordinato
+Vettore 33 Dimensione: 654
+ il vettore numerico e' correttamente ordinato
+Vettore 34 Dimensione: 323
+ il vettore numerico e' correttamente ordinato
+Vettore 35 Dimensione: 2270
+ il vettore numerico e' correttamente ordinato
+Vettore 36 Dimensione: 7028
+ il vettore numerico e' correttamente ordinato
+Vettore 37 Dimensione: 300
+ il vettore numerico e' correttamente ordinato
+Vettore 38 Dimensione: 6590
+ il vettore numerico e' correttamente ordinato
+Vettore 39 Dimensione: 8176
+ il vettore numerico e' correttamente ordinato
+Vettore 40 Dimensione: 2652
+ il vettore numerico e' correttamente ordinato
+Vettore 41 Dimensione: 5112
+ il vettore numerico e' correttamente ordinato
+Vettore 42 Dimensione: 5085
+ il vettore numerico e' correttamente ordinato
+Vettore 43 Dimensione: 2408
+ il vettore numerico e' correttamente ordinato
+Vettore 44 Dimensione: 5504
+ il vettore numerico e' correttamente ordinato
+Vettore 45 Dimensione: 4112
+ il vettore numerico e' correttamente ordinato
+Vettore 46 Dimensione: 4902
+ il vettore numerico e' correttamente ordinato
+Vettore 47 Dimensione: 2630
+ il vettore numerico e' correttamente ordinato
+Vettore 48 Dimensione: 2019
+ il vettore numerico e' correttamente ordinato
+Vettore 49 Dimensione: 5202
+ il vettore numerico e' correttamente ordinato
+Vettore 50 Dimensione: 225
+ il vettore numerico e' correttamente ordinato
+Vettore 51 Dimensione: 3
+ il vettore numerico e' correttamente ordinato
+Vettore 52 Dimensione: 8021
+ il vettore numerico e' correttamente ordinato
+Vettore 53 Dimensione: 2874
+ il vettore numerico e' correttamente ordinato
+Vettore 54 Dimensione: 7648
+ il vettore numerico e' correttamente ordinato
+Vettore 55 Dimensione: 3054
+ il vettore numerico e' correttamente ordinato
+Vettore 56 Dimensione: 3450
+ il vettore numerico e' correttamente ordinato
+Vettore 57 Dimensione: 2922
+ il vettore numerico e' correttamente ordinato
+Vettore 58 Dimensione: 1025
+ il vettore numerico e' correttamente ordinato
+Vettore 59 Dimensione: 3815
+ il vettore numerico e' correttamente ordinato
+Vettore 60 Dimensione: 1397
+ il vettore numerico e' correttamente ordinato
+Vettore 61 Dimensione: 1117
+ il vettore numerico e' correttamente ordinato
+Vettore 62 Dimensione: 7190
+ il vettore numerico e' correttamente ordinato
+Vettore 63 Dimensione: 322
+ il vettore numerico e' correttamente ordinato
+Vettore 64 Dimensione: 2300
+ il vettore numerico e' correttamente ordinato
+Vettore 65 Dimensione: 1908
+ il vettore numerico e' correttamente ordinato
+Vettore 66 Dimensione: 4323
+ il vettore numerico e' correttamente ordinato
+Vettore 67 Dimensione: 1061
+ il vettore numerico e' correttamente ordinato
+Vettore 68 Dimensione: 6254
+ il vettore numerico e' correttamente ordinato
+Vettore 69 Dimensione: 7290
+ il vettore numerico e' correttamente ordinato
+Vettore 70 Dimensione: 2627
+ il vettore numerico e' correttamente ordinato
+Vettore 71 Dimensione: 7724
+ il vettore numerico e' correttamente ordinato
+Vettore 72 Dimensione: 2689
+ il vettore numerico e' correttamente ordinato
+Vettore 73 Dimensione: 5713
+ il vettore numerico e' correttamente ordinato
+Vettore 74 Dimensione: 3057
+ il vettore numerico e' correttamente ordinato
+Vettore 75 Dimensione: 1021
+ il vettore numerico e' correttamente ordinato
+Vettore 76 Dimensione: 7624
+ il vettore numerico e' correttamente ordinato
+Vettore 77 Dimensione: 4610
+ il vettore numerico e' correttamente ordinato
+Vettore 78 Dimensione: 7876
+ il vettore numerico e' correttamente ordinato
+Vettore 79 Dimensione: 6312
+ il vettore numerico e' correttamente ordinato
+Vettore 80 Dimensione: 6318
+ il vettore numerico e' correttamente ordinato
+Vettore 81 Dimensione: 7918
+ il vettore numerico e' correttamente ordinato
+Vettore 82 Dimensione: 7876
+ il vettore numerico e' correttamente ordinato
+Vettore 83 Dimensione: 2732
+ il vettore numerico e' correttamente ordinato
+Vettore 84 Dimensione: 588
+ il vettore numerico e' correttamente ordinato
+Vettore 85 Dimensione: 6742
+ il vettore numerico e' correttamente ordinato
+Vettore 86 Dimensione: 3406
+ il vettore numerico e' correttamente ordinato
+Vettore 87 Dimensione: 6226
+ il vettore numerico e' correttamente ordinato
+Vettore 88 Dimensione: 1110
+ il vettore numerico e' correttamente ordinato
+Vettore 89 Dimensione: 1844
+ il vettore numerico e' correttamente ordinato
+Vettore 90 Dimensione: 3103
+ il vettore numerico e' correttamente ordinato
+Vettore 91 Dimensione: 1086
+ il vettore numerico e' correttamente ordinato
+Vettore 92 Dimensione: 3704
+ il vettore numerico e' correttamente ordinato
+Vettore 93 Dimensione: 5165
+ il vettore numerico e' correttamente ordinato
+Vettore 94 Dimensione: 3582
+ il vettore numerico e' correttamente ordinato
+Vettore 95 Dimensione: 7256
+ il vettore numerico e' correttamente ordinato
+Vettore 96 Dimensione: 2666
+ il vettore numerico e' correttamente ordinato
+Vettore 97 Dimensione: 570
+ il vettore numerico e' correttamente ordinato
+Vettore 98 Dimensione: 5708
+ il vettore numerico e' correttamente ordinato
+Vettore 99 Dimensione: 2641
+ il vettore numerico e' correttamente ordinato
+Vettore 100 Dimensione: 7047
+ il vettore numerico e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+tutti i vettori numerici e letterali sono stati ordinati correttamente da bubble_sort! 
+<end of output>
+Test time =  19.69 sec
+----------------------------------------------------------
+Test Passed.
+"bubblesort" end time: May 06 08:10 UTC
+"bubblesort" time elapsed: 00:00:19
+----------------------------------------------------------
+
+2/5 Testing: insertionsort
+2/5 Test: insertionsort
+Command: "/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build/test_insertionsort"
+Directory: /home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build
+"insertionsort" start time: May 06 08:10 UTC
+Output:
+----------------------------------------------------------
+Vettore 1 Dimensione: 993
+ il vettore numerico e' correttamente ordinato
+Vettore 2 Dimensione: 4549
+ il vettore numerico e' correttamente ordinato
+Vettore 3 Dimensione: 7673
+ il vettore numerico e' correttamente ordinato
+Vettore 4 Dimensione: 4427
+ il vettore numerico e' correttamente ordinato
+Vettore 5 Dimensione: 5473
+ il vettore numerico e' correttamente ordinato
+Vettore 6 Dimensione: 2519
+ il vettore numerico e' correttamente ordinato
+Vettore 7 Dimensione: 454
+ il vettore numerico e' correttamente ordinato
+Vettore 8 Dimensione: 1519
+ il vettore numerico e' correttamente ordinato
+Vettore 9 Dimensione: 2555
+ il vettore numerico e' correttamente ordinato
+Vettore 10 Dimensione: 896
+ il vettore numerico e' correttamente ordinato
+Vettore 11 Dimensione: 1737
+ il vettore numerico e' correttamente ordinato
+Vettore 12 Dimensione: 3163
+ il vettore numerico e' correttamente ordinato
+Vettore 13 Dimensione: 6350
+ il vettore numerico e' correttamente ordinato
+Vettore 14 Dimensione: 7156
+ il vettore numerico e' correttamente ordinato
+Vettore 15 Dimensione: 4880
+ il vettore numerico e' correttamente ordinato
+Vettore 16 Dimensione: 4938
+ il vettore numerico e' correttamente ordinato
+Vettore 17 Dimensione: 2352
+ il vettore numerico e' correttamente ordinato
+Vettore 18 Dimensione: 1281
+ il vettore numerico e' correttamente ordinato
+Vettore 19 Dimensione: 5586
+ il vettore numerico e' correttamente ordinato
+Vettore 20 Dimensione: 5273
+ il vettore numerico e' correttamente ordinato
+Vettore 21 Dimensione: 2383
+ il vettore numerico e' correttamente ordinato
+Vettore 22 Dimensione: 3683
+ il vettore numerico e' correttamente ordinato
+Vettore 23 Dimensione: 2945
+ il vettore numerico e' correttamente ordinato
+Vettore 24 Dimensione: 4926
+ il vettore numerico e' correttamente ordinato
+Vettore 25 Dimensione: 7612
+ il vettore numerico e' correttamente ordinato
+Vettore 26 Dimensione: 4706
+ il vettore numerico e' correttamente ordinato
+Vettore 27 Dimensione: 6513
+ il vettore numerico e' correttamente ordinato
+Vettore 28 Dimensione: 7072
+ il vettore numerico e' correttamente ordinato
+Vettore 29 Dimensione: 2993
+ il vettore numerico e' correttamente ordinato
+Vettore 30 Dimensione: 7040
+ il vettore numerico e' correttamente ordinato
+Vettore 31 Dimensione: 2214
+ il vettore numerico e' correttamente ordinato
+Vettore 32 Dimensione: 6578
+ il vettore numerico e' correttamente ordinato
+Vettore 33 Dimensione: 7699
+ il vettore numerico e' correttamente ordinato
+Vettore 34 Dimensione: 1577
+ il vettore numerico e' correttamente ordinato
+Vettore 35 Dimensione: 6811
+ il vettore numerico e' correttamente ordinato
+Vettore 36 Dimensione: 5000
+ il vettore numerico e' correttamente ordinato
+Vettore 37 Dimensione: 4437
+ il vettore numerico e' correttamente ordinato
+Vettore 38 Dimensione: 5531
+ il vettore numerico e' correttamente ordinato
+Vettore 39 Dimensione: 4929
+ il vettore numerico e' correttamente ordinato
+Vettore 40 Dimensione: 1213
+ il vettore numerico e' correttamente ordinato
+Vettore 41 Dimensione: 4048
+ il vettore numerico e' correttamente ordinato
+Vettore 42 Dimensione: 2623
+ il vettore numerico e' correttamente ordinato
+Vettore 43 Dimensione: 1671
+ il vettore numerico e' correttamente ordinato
+Vettore 44 Dimensione: 2306
+ il vettore numerico e' correttamente ordinato
+Vettore 45 Dimensione: 4310
+ il vettore numerico e' correttamente ordinato
+Vettore 46 Dimensione: 7478
+ il vettore numerico e' correttamente ordinato
+Vettore 47 Dimensione: 3844
+ il vettore numerico e' correttamente ordinato
+Vettore 48 Dimensione: 1252
+ il vettore numerico e' correttamente ordinato
+Vettore 49 Dimensione: 6674
+ il vettore numerico e' correttamente ordinato
+Vettore 50 Dimensione: 6028
+ il vettore numerico e' correttamente ordinato
+Vettore 51 Dimensione: 5901
+ il vettore numerico e' correttamente ordinato
+Vettore 52 Dimensione: 8084
+ il vettore numerico e' correttamente ordinato
+Vettore 53 Dimensione: 6612
+ il vettore numerico e' correttamente ordinato
+Vettore 54 Dimensione: 7718
+ il vettore numerico e' correttamente ordinato
+Vettore 55 Dimensione: 1708
+ il vettore numerico e' correttamente ordinato
+Vettore 56 Dimensione: 3379
+ il vettore numerico e' correttamente ordinato
+Vettore 57 Dimensione: 970
+ il vettore numerico e' correttamente ordinato
+Vettore 58 Dimensione: 2253
+ il vettore numerico e' correttamente ordinato
+Vettore 59 Dimensione: 6536
+ il vettore numerico e' correttamente ordinato
+Vettore 60 Dimensione: 6748
+ il vettore numerico e' correttamente ordinato
+Vettore 61 Dimensione: 3171
+ il vettore numerico e' correttamente ordinato
+Vettore 62 Dimensione: 2126
+ il vettore numerico e' correttamente ordinato
+Vettore 63 Dimensione: 6702
+ il vettore numerico e' correttamente ordinato
+Vettore 64 Dimensione: 579
+ il vettore numerico e' correttamente ordinato
+Vettore 65 Dimensione: 2629
+ il vettore numerico e' correttamente ordinato
+Vettore 66 Dimensione: 2326
+ il vettore numerico e' correttamente ordinato
+Vettore 67 Dimensione: 1791
+ il vettore numerico e' correttamente ordinato
+Vettore 68 Dimensione: 5192
+ il vettore numerico e' correttamente ordinato
+Vettore 69 Dimensione: 7379
+ il vettore numerico e' correttamente ordinato
+Vettore 70 Dimensione: 331
+ il vettore numerico e' correttamente ordinato
+Vettore 71 Dimensione: 4482
+ il vettore numerico e' correttamente ordinato
+Vettore 72 Dimensione: 6670
+ il vettore numerico e' correttamente ordinato
+Vettore 73 Dimensione: 4699
+ il vettore numerico e' correttamente ordinato
+Vettore 74 Dimensione: 3887
+ il vettore numerico e' correttamente ordinato
+Vettore 75 Dimensione: 6387
+ il vettore numerico e' correttamente ordinato
+Vettore 76 Dimensione: 4080
+ il vettore numerico e' correttamente ordinato
+Vettore 77 Dimensione: 6407
+ il vettore numerico e' correttamente ordinato
+Vettore 78 Dimensione: 1794
+ il vettore numerico e' correttamente ordinato
+Vettore 79 Dimensione: 6430
+ il vettore numerico e' correttamente ordinato
+Vettore 80 Dimensione: 70
+ il vettore numerico e' correttamente ordinato
+Vettore 81 Dimensione: 1767
+ il vettore numerico e' correttamente ordinato
+Vettore 82 Dimensione: 803
+ il vettore numerico e' correttamente ordinato
+Vettore 83 Dimensione: 2478
+ il vettore numerico e' correttamente ordinato
+Vettore 84 Dimensione: 165
+ il vettore numerico e' correttamente ordinato
+Vettore 85 Dimensione: 1241
+ il vettore numerico e' correttamente ordinato
+Vettore 86 Dimensione: 4129
+ il vettore numerico e' correttamente ordinato
+Vettore 87 Dimensione: 6186
+ il vettore numerico e' correttamente ordinato
+Vettore 88 Dimensione: 1938
+ il vettore numerico e' correttamente ordinato
+Vettore 89 Dimensione: 5766
+ il vettore numerico e' correttamente ordinato
+Vettore 90 Dimensione: 2104
+ il vettore numerico e' correttamente ordinato
+Vettore 91 Dimensione: 7543
+ il vettore numerico e' correttamente ordinato
+Vettore 92 Dimensione: 7579
+ il vettore numerico e' correttamente ordinato
+Vettore 93 Dimensione: 3468
+ il vettore numerico e' correttamente ordinato
+Vettore 94 Dimensione: 4184
+ il vettore numerico e' correttamente ordinato
+Vettore 95 Dimensione: 5578
+ il vettore numerico e' correttamente ordinato
+Vettore 96 Dimensione: 2131
+ il vettore numerico e' correttamente ordinato
+Vettore 97 Dimensione: 7640
+ il vettore numerico e' correttamente ordinato
+Vettore 98 Dimensione: 718
+ il vettore numerico e' correttamente ordinato
+Vettore 99 Dimensione: 7482
+ il vettore numerico e' correttamente ordinato
+Vettore 100 Dimensione: 95
+ il vettore numerico e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+tutti i vettori numerici e letterali sono stati ordinati correttamente da insertion_sort! 
+<end of output>
+Test time =   5.38 sec
+----------------------------------------------------------
+Test Passed.
+"insertionsort" end time: May 06 08:10 UTC
+"insertionsort" time elapsed: 00:00:05
+----------------------------------------------------------
+
+3/5 Testing: selectionsort
+3/5 Test: selectionsort
+Command: "/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build/test_selectionsort"
+Directory: /home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build
+"selectionsort" start time: May 06 08:10 UTC
+Output:
+----------------------------------------------------------
+Vettore 1 Dimensione: 1960
+ il vettore numerico e' correttamente ordinato
+Vettore 2 Dimensione: 2733
+ il vettore numerico e' correttamente ordinato
+Vettore 3 Dimensione: 4229
+ il vettore numerico e' correttamente ordinato
+Vettore 4 Dimensione: 1824
+ il vettore numerico e' correttamente ordinato
+Vettore 5 Dimensione: 7009
+ il vettore numerico e' correttamente ordinato
+Vettore 6 Dimensione: 4127
+ il vettore numerico e' correttamente ordinato
+Vettore 7 Dimensione: 6678
+ il vettore numerico e' correttamente ordinato
+Vettore 8 Dimensione: 5005
+ il vettore numerico e' correttamente ordinato
+Vettore 9 Dimensione: 2873
+ il vettore numerico e' correttamente ordinato
+Vettore 10 Dimensione: 165
+ il vettore numerico e' correttamente ordinato
+Vettore 11 Dimensione: 1631
+ il vettore numerico e' correttamente ordinato
+Vettore 12 Dimensione: 1811
+ il vettore numerico e' correttamente ordinato
+Vettore 13 Dimensione: 2293
+ il vettore numerico e' correttamente ordinato
+Vettore 14 Dimensione: 3352
+ il vettore numerico e' correttamente ordinato
+Vettore 15 Dimensione: 1981
+ il vettore numerico e' correttamente ordinato
+Vettore 16 Dimensione: 2254
+ il vettore numerico e' correttamente ordinato
+Vettore 17 Dimensione: 5648
+ il vettore numerico e' correttamente ordinato
+Vettore 18 Dimensione: 6584
+ il vettore numerico e' correttamente ordinato
+Vettore 19 Dimensione: 1649
+ il vettore numerico e' correttamente ordinato
+Vettore 20 Dimensione: 356
+ il vettore numerico e' correttamente ordinato
+Vettore 21 Dimensione: 170
+ il vettore numerico e' correttamente ordinato
+Vettore 22 Dimensione: 3232
+ il vettore numerico e' correttamente ordinato
+Vettore 23 Dimensione: 5292
+ il vettore numerico e' correttamente ordinato
+Vettore 24 Dimensione: 6030
+ il vettore numerico e' correttamente ordinato
+Vettore 25 Dimensione: 1047
+ il vettore numerico e' correttamente ordinato
+Vettore 26 Dimensione: 6429
+ il vettore numerico e' correttamente ordinato
+Vettore 27 Dimensione: 6981
+ il vettore numerico e' correttamente ordinato
+Vettore 28 Dimensione: 5584
+ il vettore numerico e' correttamente ordinato
+Vettore 29 Dimensione: 2886
+ il vettore numerico e' correttamente ordinato
+Vettore 30 Dimensione: 5446
+ il vettore numerico e' correttamente ordinato
+Vettore 31 Dimensione: 7751
+ il vettore numerico e' correttamente ordinato
+Vettore 32 Dimensione: 6752
+ il vettore numerico e' correttamente ordinato
+Vettore 33 Dimensione: 2227
+ il vettore numerico e' correttamente ordinato
+Vettore 34 Dimensione: 7089
+ il vettore numerico e' correttamente ordinato
+Vettore 35 Dimensione: 6431
+ il vettore numerico e' correttamente ordinato
+Vettore 36 Dimensione: 6081
+ il vettore numerico e' correttamente ordinato
+Vettore 37 Dimensione: 5352
+ il vettore numerico e' correttamente ordinato
+Vettore 38 Dimensione: 5669
+ il vettore numerico e' correttamente ordinato
+Vettore 39 Dimensione: 839
+ il vettore numerico e' correttamente ordinato
+Vettore 40 Dimensione: 2864
+ il vettore numerico e' correttamente ordinato
+Vettore 41 Dimensione: 2989
+ il vettore numerico e' correttamente ordinato
+Vettore 42 Dimensione: 7745
+ il vettore numerico e' correttamente ordinato
+Vettore 43 Dimensione: 6707
+ il vettore numerico e' correttamente ordinato
+Vettore 44 Dimensione: 1141
+ il vettore numerico e' correttamente ordinato
+Vettore 45 Dimensione: 4287
+ il vettore numerico e' correttamente ordinato
+Vettore 46 Dimensione: 2009
+ il vettore numerico e' correttamente ordinato
+Vettore 47 Dimensione: 5326
+ il vettore numerico e' correttamente ordinato
+Vettore 48 Dimensione: 4272
+ il vettore numerico e' correttamente ordinato
+Vettore 49 Dimensione: 7801
+ il vettore numerico e' correttamente ordinato
+Vettore 50 Dimensione: 2760
+ il vettore numerico e' correttamente ordinato
+Vettore 51 Dimensione: 1952
+ il vettore numerico e' correttamente ordinato
+Vettore 52 Dimensione: 954
+ il vettore numerico e' correttamente ordinato
+Vettore 53 Dimensione: 2184
+ il vettore numerico e' correttamente ordinato
+Vettore 54 Dimensione: 5651
+ il vettore numerico e' correttamente ordinato
+Vettore 55 Dimensione: 2232
+ il vettore numerico e' correttamente ordinato
+Vettore 56 Dimensione: 2574
+ il vettore numerico e' correttamente ordinato
+Vettore 57 Dimensione: 6233
+ il vettore numerico e' correttamente ordinato
+Vettore 58 Dimensione: 1965
+ il vettore numerico e' correttamente ordinato
+Vettore 59 Dimensione: 6782
+ il vettore numerico e' correttamente ordinato
+Vettore 60 Dimensione: 4611
+ il vettore numerico e' correttamente ordinato
+Vettore 61 Dimensione: 2732
+ il vettore numerico e' correttamente ordinato
+Vettore 62 Dimensione: 1055
+ il vettore numerico e' correttamente ordinato
+Vettore 63 Dimensione: 4465
+ il vettore numerico e' correttamente ordinato
+Vettore 64 Dimensione: 4530
+ il vettore numerico e' correttamente ordinato
+Vettore 65 Dimensione: 5722
+ il vettore numerico e' correttamente ordinato
+Vettore 66 Dimensione: 216
+ il vettore numerico e' correttamente ordinato
+Vettore 67 Dimensione: 7663
+ il vettore numerico e' correttamente ordinato
+Vettore 68 Dimensione: 7475
+ il vettore numerico e' correttamente ordinato
+Vettore 69 Dimensione: 1099
+ il vettore numerico e' correttamente ordinato
+Vettore 70 Dimensione: 3879
+ il vettore numerico e' correttamente ordinato
+Vettore 71 Dimensione: 3688
+ il vettore numerico e' correttamente ordinato
+Vettore 72 Dimensione: 7774
+ il vettore numerico e' correttamente ordinato
+Vettore 73 Dimensione: 7791
+ il vettore numerico e' correttamente ordinato
+Vettore 74 Dimensione: 2688
+ il vettore numerico e' correttamente ordinato
+Vettore 75 Dimensione: 7274
+ il vettore numerico e' correttamente ordinato
+Vettore 76 Dimensione: 3198
+ il vettore numerico e' correttamente ordinato
+Vettore 77 Dimensione: 7231
+ il vettore numerico e' correttamente ordinato
+Vettore 78 Dimensione: 2428
+ il vettore numerico e' correttamente ordinato
+Vettore 79 Dimensione: 2891
+ il vettore numerico e' correttamente ordinato
+Vettore 80 Dimensione: 4568
+ il vettore numerico e' correttamente ordinato
+Vettore 81 Dimensione: 514
+ il vettore numerico e' correttamente ordinato
+Vettore 82 Dimensione: 5659
+ il vettore numerico e' correttamente ordinato
+Vettore 83 Dimensione: 6518
+ il vettore numerico e' correttamente ordinato
+Vettore 84 Dimensione: 2745
+ il vettore numerico e' correttamente ordinato
+Vettore 85 Dimensione: 5869
+ il vettore numerico e' correttamente ordinato
+Vettore 86 Dimensione: 5193
+ il vettore numerico e' correttamente ordinato
+Vettore 87 Dimensione: 845
+ il vettore numerico e' correttamente ordinato
+Vettore 88 Dimensione: 892
+ il vettore numerico e' correttamente ordinato
+Vettore 89 Dimensione: 6624
+ il vettore numerico e' correttamente ordinato
+Vettore 90 Dimensione: 3001
+ il vettore numerico e' correttamente ordinato
+Vettore 91 Dimensione: 3391
+ il vettore numerico e' correttamente ordinato
+Vettore 92 Dimensione: 6909
+ il vettore numerico e' correttamente ordinato
+Vettore 93 Dimensione: 1572
+ il vettore numerico e' correttamente ordinato
+Vettore 94 Dimensione: 2268
+ il vettore numerico e' correttamente ordinato
+Vettore 95 Dimensione: 270
+ il vettore numerico e' correttamente ordinato
+Vettore 96 Dimensione: 7333
+ il vettore numerico e' correttamente ordinato
+Vettore 97 Dimensione: 1403
+ il vettore numerico e' correttamente ordinato
+Vettore 98 Dimensione: 7060
+ il vettore numerico e' correttamente ordinato
+Vettore 99 Dimensione: 7215
+ il vettore numerico e' correttamente ordinato
+Vettore 100 Dimensione: 4607
+ il vettore numerico e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+tutti i vettori numerici e letterali sono stati ordinati correttamente da bubble_sort! 
+<end of output>
+Test time =   7.26 sec
+----------------------------------------------------------
+Test Passed.
+"selectionsort" end time: May 06 08:10 UTC
+"selectionsort" time elapsed: 00:00:07
+----------------------------------------------------------
+
+4/5 Testing: quick_sort
+4/5 Test: quick_sort
+Command: "/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build/test_quicksort"
+Directory: /home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build
+"quick_sort" start time: May 06 08:10 UTC
+Output:
+----------------------------------------------------------
+Vettore 1 Dimensione: 846
+ il vettore NON E' ORDINATO
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"quick_sort" end time: May 06 08:10 UTC
+"quick_sort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: merge_sort
+5/5 Test: merge_sort
+Command: "/home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build/test_mergesort"
+Directory: /home/pcsdocker/Data/REPOSITORY-1/ESERCITAZIONE_5/build
+"merge_sort" start time: May 06 08:10 UTC
+Output:
+----------------------------------------------------------
+Vettore 1 Dimensione: 6699
+ il vettore numerico e' correttamente ordinato
+Vettore 2 Dimensione: 903
+ il vettore numerico e' correttamente ordinato
+Vettore 3 Dimensione: 1779
+ il vettore numerico e' correttamente ordinato
+Vettore 4 Dimensione: 3573
+ il vettore numerico e' correttamente ordinato
+Vettore 5 Dimensione: 5156
+ il vettore numerico e' correttamente ordinato
+Vettore 6 Dimensione: 4447
+ il vettore numerico e' correttamente ordinato
+Vettore 7 Dimensione: 1162
+ il vettore numerico e' correttamente ordinato
+Vettore 8 Dimensione: 3960
+ il vettore numerico e' correttamente ordinato
+Vettore 9 Dimensione: 341
+ il vettore numerico e' correttamente ordinato
+Vettore 10 Dimensione: 580
+ il vettore numerico e' correttamente ordinato
+Vettore 11 Dimensione: 2045
+ il vettore numerico e' correttamente ordinato
+Vettore 12 Dimensione: 506
+ il vettore numerico e' correttamente ordinato
+Vettore 13 Dimensione: 6476
+ il vettore numerico e' correttamente ordinato
+Vettore 14 Dimensione: 7370
+ il vettore numerico e' correttamente ordinato
+Vettore 15 Dimensione: 5511
+ il vettore numerico e' correttamente ordinato
+Vettore 16 Dimensione: 1247
+ il vettore numerico e' correttamente ordinato
+Vettore 17 Dimensione: 7367
+ il vettore numerico e' correttamente ordinato
+Vettore 18 Dimensione: 7074
+ il vettore numerico e' correttamente ordinato
+Vettore 19 Dimensione: 3963
+ il vettore numerico e' correttamente ordinato
+Vettore 20 Dimensione: 4981
+ il vettore numerico e' correttamente ordinato
+Vettore 21 Dimensione: 8000
+ il vettore numerico e' correttamente ordinato
+Vettore 22 Dimensione: 1012
+ il vettore numerico e' correttamente ordinato
+Vettore 23 Dimensione: 1686
+ il vettore numerico e' correttamente ordinato
+Vettore 24 Dimensione: 4064
+ il vettore numerico e' correttamente ordinato
+Vettore 25 Dimensione: 204
+ il vettore numerico e' correttamente ordinato
+Vettore 26 Dimensione: 2258
+ il vettore numerico e' correttamente ordinato
+Vettore 27 Dimensione: 6946
+ il vettore numerico e' correttamente ordinato
+Vettore 28 Dimensione: 7936
+ il vettore numerico e' correttamente ordinato
+Vettore 29 Dimensione: 5504
+ il vettore numerico e' correttamente ordinato
+Vettore 30 Dimensione: 7496
+ il vettore numerico e' correttamente ordinato
+Vettore 31 Dimensione: 1565
+ il vettore numerico e' correttamente ordinato
+Vettore 32 Dimensione: 6713
+ il vettore numerico e' correttamente ordinato
+Vettore 33 Dimensione: 1264
+ il vettore numerico e' correttamente ordinato
+Vettore 34 Dimensione: 1651
+ il vettore numerico e' correttamente ordinato
+Vettore 35 Dimensione: 5774
+ il vettore numerico e' correttamente ordinato
+Vettore 36 Dimensione: 7708
+ il vettore numerico e' correttamente ordinato
+Vettore 37 Dimensione: 673
+ il vettore numerico e' correttamente ordinato
+Vettore 38 Dimensione: 6283
+ il vettore numerico e' correttamente ordinato
+Vettore 39 Dimensione: 3256
+ il vettore numerico e' correttamente ordinato
+Vettore 40 Dimensione: 903
+ il vettore numerico e' correttamente ordinato
+Vettore 41 Dimensione: 567
+ il vettore numerico e' correttamente ordinato
+Vettore 42 Dimensione: 4923
+ il vettore numerico e' correttamente ordinato
+Vettore 43 Dimensione: 4554
+ il vettore numerico e' correttamente ordinato
+Vettore 44 Dimensione: 4844
+ il vettore numerico e' correttamente ordinato
+Vettore 45 Dimensione: 7554
+ il vettore numerico e' correttamente ordinato
+Vettore 46 Dimensione: 6960
+ il vettore numerico e' correttamente ordinato
+Vettore 47 Dimensione: 8186
+ il vettore numerico e' correttamente ordinato
+Vettore 48 Dimensione: 7662
+ il vettore numerico e' correttamente ordinato
+Vettore 49 Dimensione: 3505
+ il vettore numerico e' correttamente ordinato
+Vettore 50 Dimensione: 5889
+ il vettore numerico e' correttamente ordinato
+Vettore 51 Dimensione: 6472
+ il vettore numerico e' correttamente ordinato
+Vettore 52 Dimensione: 490
+ il vettore numerico e' correttamente ordinato
+Vettore 53 Dimensione: 1697
+ il vettore numerico e' correttamente ordinato
+Vettore 54 Dimensione: 5624
+ il vettore numerico e' correttamente ordinato
+Vettore 55 Dimensione: 3877
+ il vettore numerico e' correttamente ordinato
+Vettore 56 Dimensione: 1250
+ il vettore numerico e' correttamente ordinato
+Vettore 57 Dimensione: 7515
+ il vettore numerico e' correttamente ordinato
+Vettore 58 Dimensione: 7215
+ il vettore numerico e' correttamente ordinato
+Vettore 59 Dimensione: 461
+ il vettore numerico e' correttamente ordinato
+Vettore 60 Dimensione: 3435
+ il vettore numerico e' correttamente ordinato
+Vettore 61 Dimensione: 7080
+ il vettore numerico e' correttamente ordinato
+Vettore 62 Dimensione: 3048
+ il vettore numerico e' correttamente ordinato
+Vettore 63 Dimensione: 7711
+ il vettore numerico e' correttamente ordinato
+Vettore 64 Dimensione: 2194
+ il vettore numerico e' correttamente ordinato
+Vettore 65 Dimensione: 89
+ il vettore numerico e' correttamente ordinato
+Vettore 66 Dimensione: 2695
+ il vettore numerico e' correttamente ordinato
+Vettore 67 Dimensione: 2829
+ il vettore numerico e' correttamente ordinato
+Vettore 68 Dimensione: 3464
+ il vettore numerico e' correttamente ordinato
+Vettore 69 Dimensione: 1872
+ il vettore numerico e' correttamente ordinato
+Vettore 70 Dimensione: 316
+ il vettore numerico e' correttamente ordinato
+Vettore 71 Dimensione: 7431
+ il vettore numerico e' correttamente ordinato
+Vettore 72 Dimensione: 5624
+ il vettore numerico e' correttamente ordinato
+Vettore 73 Dimensione: 4788
+ il vettore numerico e' correttamente ordinato
+Vettore 74 Dimensione: 697
+ il vettore numerico e' correttamente ordinato
+Vettore 75 Dimensione: 7940
+ il vettore numerico e' correttamente ordinato
+Vettore 76 Dimensione: 3114
+ il vettore numerico e' correttamente ordinato
+Vettore 77 Dimensione: 6202
+ il vettore numerico e' correttamente ordinato
+Vettore 78 Dimensione: 2865
+ il vettore numerico e' correttamente ordinato
+Vettore 79 Dimensione: 514
+ il vettore numerico e' correttamente ordinato
+Vettore 80 Dimensione: 2431
+ il vettore numerico e' correttamente ordinato
+Vettore 81 Dimensione: 2677
+ il vettore numerico e' correttamente ordinato
+Vettore 82 Dimensione: 8167
+ il vettore numerico e' correttamente ordinato
+Vettore 83 Dimensione: 2572
+ il vettore numerico e' correttamente ordinato
+Vettore 84 Dimensione: 4944
+ il vettore numerico e' correttamente ordinato
+Vettore 85 Dimensione: 3683
+ il vettore numerico e' correttamente ordinato
+Vettore 86 Dimensione: 4385
+ il vettore numerico e' correttamente ordinato
+Vettore 87 Dimensione: 7531
+ il vettore numerico e' correttamente ordinato
+Vettore 88 Dimensione: 6812
+ il vettore numerico e' correttamente ordinato
+Vettore 89 Dimensione: 29
+ il vettore numerico e' correttamente ordinato
+Vettore 90 Dimensione: 8128
+ il vettore numerico e' correttamente ordinato
+Vettore 91 Dimensione: 7035
+ il vettore numerico e' correttamente ordinato
+Vettore 92 Dimensione: 2954
+ il vettore numerico e' correttamente ordinato
+Vettore 93 Dimensione: 1059
+ il vettore numerico e' correttamente ordinato
+Vettore 94 Dimensione: 2292
+ il vettore numerico e' correttamente ordinato
+Vettore 95 Dimensione: 8095
+ il vettore numerico e' correttamente ordinato
+Vettore 96 Dimensione: 3861
+ il vettore numerico e' correttamente ordinato
+Vettore 97 Dimensione: 5025
+ il vettore numerico e' correttamente ordinato
+Vettore 98 Dimensione: 3209
+ il vettore numerico e' correttamente ordinato
+Vettore 99 Dimensione: 2232
+ il vettore numerico e' correttamente ordinato
+Vettore 100 Dimensione: 7922
+ il vettore numerico e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+ il vettore stringa e' correttamente ordinato
+tutti i vettori numerici e letterali sono stati ordinati correttamente da bubble_sort! 
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"merge_sort" end time: May 06 08:10 UTC
+"merge_sort" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 06 08:10 UTC

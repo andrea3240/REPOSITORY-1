@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -g -Wl,--dependency-file=CMakeFiles/main5.dir/link.d CMakeFiles/main5.dir/main5.cpp.o CMakeFiles/main5.dir/timecounter.cpp.o -o main5

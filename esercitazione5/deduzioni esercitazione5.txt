@@ -1,0 +1,2 @@
+Analizzando l'output del file measure_sort si vede chiaramente che circa alla dimensione 50 l'insertion_sort per l'ultima volta e' piu' veloce (in media) al riordinamento dell'implementazione del quicksort.
+Inoltre insertion_sort, secondo la funzione che ho definito, risulta piu' veloce di merge_sort per dimensioni inferiori a circa 300, probabilmente a causa dello stress che mette alla macchina dover stare dietro alle ripetute chiamate presenti nella sua implementazione e quindi alla costruzione di stack e cache.

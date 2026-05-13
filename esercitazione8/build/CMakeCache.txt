@@ -148,7 +148,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=esercitazione8
+CMAKE_PROJECT_NAME:STATIC=esercitazione4
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -214,6 +214,15 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // during the make.  This is useful for debugging only. With Visual
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
+
+//Value Computed by CMake
+esercitazione4_BINARY_DIR:STATIC=/home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build
+
+//Value Computed by CMake
+esercitazione4_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+esercitazione4_SOURCE_DIR:STATIC=/home/pcsdocker/Data/REPOSITORY-1/esercitazione8
 
 //Value Computed by CMake
 esercitazione8_BINARY_DIR:STATIC=/home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build

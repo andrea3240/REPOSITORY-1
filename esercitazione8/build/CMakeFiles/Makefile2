@@ -63,11 +63,11 @@ CMAKE_BINARY_DIR = /home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/esercitazione8.dir/all
+all: CMakeFiles/tests.dir/all
 .PHONY : all
 
 # The main recursive "codegen" target.
-codegen: CMakeFiles/esercitazione8.dir/codegen
+codegen: CMakeFiles/tests.dir/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
@@ -75,40 +75,40 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/esercitazione8.dir/clean
+clean: CMakeFiles/tests.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/esercitazione8.dir
+# Target rules for target CMakeFiles/tests.dir
 
 # All Build rule for target.
-CMakeFiles/esercitazione8.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/esercitazione8.dir/build.make CMakeFiles/esercitazione8.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/esercitazione8.dir/build.make CMakeFiles/esercitazione8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build/CMakeFiles --progress-num=1,2 "Built target esercitazione8"
-.PHONY : CMakeFiles/esercitazione8.dir/all
+CMakeFiles/tests.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build/CMakeFiles --progress-num=1,2 "Built target tests"
+.PHONY : CMakeFiles/tests.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/esercitazione8.dir/rule: cmake_check_build_system
+CMakeFiles/tests.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/esercitazione8.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/tests.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build/CMakeFiles 0
-.PHONY : CMakeFiles/esercitazione8.dir/rule
+.PHONY : CMakeFiles/tests.dir/rule
 
 # Convenience name for target.
-esercitazione8: CMakeFiles/esercitazione8.dir/rule
-.PHONY : esercitazione8
+tests: CMakeFiles/tests.dir/rule
+.PHONY : tests
 
 # codegen rule for target.
-CMakeFiles/esercitazione8.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/esercitazione8.dir/build.make CMakeFiles/esercitazione8.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build/CMakeFiles --progress-num=1,2 "Finished codegen for target esercitazione8"
-.PHONY : CMakeFiles/esercitazione8.dir/codegen
+CMakeFiles/tests.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/pcsdocker/Data/REPOSITORY-1/esercitazione8/build/CMakeFiles --progress-num=1,2 "Finished codegen for target tests"
+.PHONY : CMakeFiles/tests.dir/codegen
 
 # clean rule for target.
-CMakeFiles/esercitazione8.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/esercitazione8.dir/build.make CMakeFiles/esercitazione8.dir/clean
-.PHONY : CMakeFiles/esercitazione8.dir/clean
+CMakeFiles/tests.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/tests.dir/build.make CMakeFiles/tests.dir/clean
+.PHONY : CMakeFiles/tests.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

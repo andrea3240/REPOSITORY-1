@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,--dependency-file=CMakeFiles/tests.dir/link.d CMakeFiles/tests.dir/main.cpp.o -o tests
